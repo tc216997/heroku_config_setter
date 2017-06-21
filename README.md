@@ -1,1 +1,1 @@
-# heroku_config_setter
+I got lazy of setting configs one by one on the command line, so i decided to use node to help me become more lazy.
